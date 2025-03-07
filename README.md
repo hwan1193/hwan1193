@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+file:///C:/Users/USER/Downloads/apple.svg
+
