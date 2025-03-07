@@ -13,7 +13,7 @@
   ## 👀 About Me
   #### :raising_hand: I am a Infra Engineer from South Korea.<br/>
   #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :Master's in Information Security, Konkuk University Graduate School of Information and Communication.
   <br/>
   <br/>
   
